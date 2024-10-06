@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'eu-west-2.graphassets.com', // Domínio que você deseja permitir
+        hostname: 'api-eu-west-2.hygraph.com', // Domínio que você deseja permitir
         port: '',
         pathname: '**', // Permite todos os caminhos
       },
